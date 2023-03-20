@@ -20,6 +20,7 @@
                     <TextBlock Text="{Binding Text}" ></TextBlock>
                 </StackPanel>
             </DockPanel>
+            <WpfPlot Height="283" Margin="0,0,92,0"/>
         </StackPanel>
     </Grid>
 </mah:MetroWindow>
